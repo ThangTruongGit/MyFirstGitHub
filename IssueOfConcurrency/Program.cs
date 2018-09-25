@@ -10,6 +10,7 @@ namespace IssueOfConcurrency
     {
         static void Main(string[] args)
         {
+            string str = "hello";
         }
     }
 }

@@ -1,5 +1,7 @@
 *.txt
 *.user
+*.suo
+*.vs
 bin/*
 obj/*
 Properties/*

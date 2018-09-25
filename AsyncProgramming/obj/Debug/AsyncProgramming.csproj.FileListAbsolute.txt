@@ -1,0 +1,7 @@
+C:\Junk\Tutorials\AsyncProgramming\AsyncProgramming\bin\Debug\AsyncProgramming.exe.config
+C:\Junk\Tutorials\AsyncProgramming\AsyncProgramming\bin\Debug\AsyncProgramming.exe
+C:\Junk\Tutorials\AsyncProgramming\AsyncProgramming\bin\Debug\AsyncProgramming.pdb
+C:\Junk\Tutorials\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.csprojAssemblyReference.cache
+C:\Junk\Tutorials\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Junk\Tutorials\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.exe
+C:\Junk\Tutorials\AsyncProgramming\AsyncProgramming\obj\Debug\AsyncProgramming.pdb

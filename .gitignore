@@ -1,0 +1,5 @@
+*.txt
+*.user
+bin/*
+obj/*
+Properties/*
